@@ -2,6 +2,7 @@
 a symbiont e.g. a book that can talk back with the reader
 
 check the Youtube channel below to see the visualization for each chapter
+
 https://www.youtube.com/watch?v=0Vg7DWNc694&list=PLsWyhklHwjExakETI2tirkIXpu1vz_91Q&index=14
 
 ## License
